@@ -2167,7 +2167,7 @@ blockquote footer cite:before {
 }
 #site-title,
 #site-sub-title {
-  color: #eee;
+  color: #2e2e2e;
   text-align: center;
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
   line-height: 1.5;
